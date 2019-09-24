@@ -9,7 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>sc-eureka</module>
+        <module>eureka-sys</module>
+        <module>provide-sys1</module>
+        <module>ribbon-consumer</module>
     </modules>
 
 </project>
